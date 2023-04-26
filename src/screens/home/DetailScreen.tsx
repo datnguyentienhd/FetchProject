@@ -3,7 +3,6 @@ import React from 'react';
 import { Dimensions, Image, ImageBackground, ScrollView, Text, TouchableOpacity, View } from 'react-native';
 import styles from './Styles';
 import * as Progress from 'react-native-progress';
-import Swiper from 'react-native-swiper';
 import { FlatList } from 'react-native-gesture-handler';
 
 const windowWidth = Dimensions.get('window').width;
